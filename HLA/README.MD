@@ -13,8 +13,7 @@ HLAs corresponding to MHC class II (DP, DM, DO, DQ, and DR) present antigens fro
 
 HLAs corresponding to MHC class III encode components of the complement system.
 
-
-
+HLAs have other roles. They are important in disease defense. They are the major cause of organ transplant rejections. They may protect against or fail to protect(id down-regulated by an infection) against cancers. HLA may also be releted to people's perception of the odor of other people, and may be involoved in mate selection, as at least one study found a lower-than-expected rate of HLA similiarity between spuses in an isolated community.
 
 The IPD-IMGT/HLA Database provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committee For Factors of the HLA System.
 
